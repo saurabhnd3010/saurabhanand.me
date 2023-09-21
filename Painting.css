@@ -1,0 +1,118 @@
+body
+{
+    margin:4px;
+    padding:4px;
+}
+.color
+{
+    color:brown;
+    width:10%;
+    text-align:center;
+    margin:80px;
+}
+.logo
+{
+    margin:0px;
+    padding:0px;
+}
+#display
+{
+    float:left;
+    margin:0px;   
+}
+.searchbar
+{
+    border:4px outset brown;
+    border-radius:10px;
+    background-color: white;
+    width:70%;
+    height:50%;
+    display:block;  
+}
+.border
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image/1\ \(31\).jpg);
+    width:92%;
+    padding:15px;
+    box-sizing:border-box;
+    text-decoration: none;
+    color:white;
+}
+.button
+{
+    background:lightseagreen;
+    height:49px;
+    width:70px;
+    cursor:pointer;
+    text-decoration:none;
+    color:white;
+    
+}
+.sign
+{
+  text-align:center;   
+}
+.hover
+{
+    background:#a52a2a;
+    border-radius:180px;
+    width:55px;
+    text-align:center;
+    height:55px;
+    text-decoration:none;
+    color:white;
+    cursor:pointer;
+}
+a
+{
+    
+    text-decoration:none; 
+    color:white;
+}
+.Indianlogo
+{
+    margin:2px;
+    cursor:pointer;
+    background:brown;
+    border-radius:180px;
+    width:55px;
+    height:55px;
+    transition-property:all;
+    transition-duration:0.5s;
+    transition-timing-function:ease-out;
+    box-align:center;
+}
+#display1
+{
+    float:left;
+    margin:10px;
+
+}
+.center:hover
+{
+    border-radius:36px;
+    transition-property:all;
+    transition-duration:0.5s;
+    transition-timing-function:ease-out; 
+    cursor:pointer;
+    background-color:lightcoral;
+    
+}
+.frame
+{
+    border-radius:12px;
+    border:0px solid;
+    width:auto;
+    background-color:antiquewhite;
+}
+
+.display3
+{
+    border:0px solid black;
+    border-radius:2px;
+    width:120px;
+    height:70px;
+    display:right;
+    
+
+}
